@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shop_react/static/css/main.eec7765b.css",
+    "main.js": "/Shop_react/static/js/main.cd1c7890.js",
+    "static/media/room.jpeg": "/Shop_react/static/media/room.0ff93f2c2f58dc47bf57.jpeg",
+    "index.html": "/Shop_react/index.html",
+    "main.eec7765b.css.map": "/Shop_react/static/css/main.eec7765b.css.map",
+    "main.cd1c7890.js.map": "/Shop_react/static/js/main.cd1c7890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec7765b.css",
+    "static/js/main.cd1c7890.js"
+  ]
+}
